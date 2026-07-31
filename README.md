@@ -470,8 +470,6 @@ Status      : Learning Everyday 🚀
 
 <div align="center">
 
-⚠️ Snake animation Part 6 me activate hogi (GitHub Actions setup).
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
