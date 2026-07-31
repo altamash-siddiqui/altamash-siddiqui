@@ -26,59 +26,44 @@
 
 </div>
 
-💫 About Me
-
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-class AltamashSiddiqui:
-
-    education = "Bachelor of Computer Applications"
-
-    role = "Python Developer"
-
-    passion = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Automation",
-        "Open Source"
-    ]
-
-    currently_learning = [
-        "Python",
-        "AI",
-        "AWS",
-        "Git & GitHub"
-    ]
-
-    current_project = "AI Career Copilot"
-
-    goal = "Become an AI Engineer"
-
-print("Thanks for visiting my profile 🚀")
-
-🌟 Quick Facts
-
-🎓 BCA Student
-
-🐍 Python Developer
-
-🤖 AI Enthusiast
-
-☁️ Learning AWS Cloud
-
-💻 Building Real World Projects
-
-🌱 Currently Working on AI Career Copilot
-
-📚 Daily Python Practice
-
-🚀 Open Source Learner
-
-🎯 Future AI Engineer
+# 💫 About Me
 
 <div align="center">
 
-🌐 Connect With Me
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="260"/>
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                SYSTEM INFORMATION                    ║
+╠══════════════════════════════════════════════════════╣
+║ 👤 USER      : Altamash Siddiqui                    ║
+║ 🎓 EDUCATION : Bachelor of Computer Applications    ║
+║ 🐍 ROLE      : Python Developer                     ║
+║ 🤖 FOCUS     : Artificial Intelligence              ║
+║ ☁️ LEARNING  : Python • AI • AWS                    ║
+║ 🚀 PROJECT   : AI Career Copilot                    ║
+║ 🎯 GOAL      : Become an AI Engineer                ║
+║ 💙 STATUS    : Open Source Learner                  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+## ⚡ Quick Facts
+
+- 🎓 Bachelor of Computer Applications (BCA)
+- 🐍 Python Developer
+- 🤖 Artificial Intelligence Enthusiast
+- ☁️ Learning AWS Cloud
+- 💻 Building Real World Projects
+- 🚀 Currently Developing **AI Career Copilot**
+- 📚 Practicing Python Every Day
+- 🌍 Open Source Learner
+- 🎯 Future AI Engineer
+
+<div align="center">
+
+# 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/altamash-siddiqui-a228a7260">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -99,7 +84,7 @@ print("Thanks for visiting my profile 🚀")
 <!--      TECH STACK          -->
 <!-- ========================= -->
 
-🚀 Tech Arsenal
+# 🚀 Tech Arsenal
 
 <div align="center">
 
@@ -129,7 +114,7 @@ print("Thanks for visiting my profile 🚀")
 
 </div>
 
-💎 Skills Overview
+# 💎 Skills Overview
 
 Skill
 
@@ -163,7 +148,7 @@ Progress
 
 █████████░ 85%
 
-🖥️ Development Environment
+# 🖥️ Development Environment
 
 💻 Laptop        :: Windows 11
 📝 Editor        :: Visual Studio Code
@@ -172,7 +157,7 @@ Progress
 ☁️ Cloud         :: AWS
 🤖 AI Tools      :: ChatGPT • Gemini • GitHub Copilot
 
-📚 Current Learning Journey
+# 📚 Current Learning Journey
 
 ✅ Python Advanced
 
@@ -194,7 +179,7 @@ Progress
 
 ⏳ Open Source Contribution
 
-🎯 2026 Goals
+# 🎯 2026 Goals
 
 🚀 Build 10+ Real World Python Projects
 
@@ -208,7 +193,7 @@ Progress
 
 ⭐ Reach 500+ GitHub Contributions
 
-⚡ Fun Fact
+# ⚡ Fun Fact
 
 💡 "Every expert was once a beginner who never stopped coding."
 
@@ -221,7 +206,7 @@ Progress
 <!--    FEATURED PROJECTS      -->
 <!-- ========================= -->
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -260,7 +245,9 @@ AI-powered career assistant designed to help users with career guidance, skill d
 
 🔗 Repository
 
-https://github.com/altamash-siddiqui/AI-Career-Copilot
+<a href="https://github.com/altamash-siddiqui/AI-Career-Copilot">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
@@ -290,14 +277,16 @@ A collection of Python practice programs covering beginner to advanced concepts.
 
 🔗 Repository
 
-https://github.com/altamash-siddiqui/Python-Practice
+<a href="https://github.com/altamash-siddiqui/Python-Practice">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
-📌 Repository Highlights
+# 📌 Repository Highlights
 
 <div align="center">
 
@@ -311,7 +300,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 
 </div>
 
-💼 What I'm Working On
+# 💼 What I'm Working On
 
 🚀 AI Career Copilot
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 85%
@@ -325,7 +314,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 🤖 Machine Learning
 ━━━━━━━━━━━━━━━━━━━━━━ 55%
 
-🎯 Next Planned Projects
+# 🎯 Next Planned Projects
 
 🤖 AI Resume Analyzer
 
@@ -358,7 +347,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 <!--                PREMIUM GITHUB ANALYTICS                -->
 <!-- ====================================================== -->
 
-📊 GitHub Analytics Dashboard
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
@@ -368,7 +357,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 
 </div>
 
-🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -376,7 +365,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 
 </div>
 
-🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -384,7 +373,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 
 </div>
 
-📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -392,7 +381,7 @@ https://github.com/altamash-siddiqui/Python-Practice
 
 </div>
 
-⚡ Coding Activity
+# ⚡ Coding Activity
 
 <div align="center">
 
@@ -422,7 +411,7 @@ Status
 
 </div>
 
-💻 Weekly Development
+# 💻 Weekly Development
 
 Monday      ██████████████
 Tuesday     ███████████
@@ -432,7 +421,7 @@ Friday      ██████████████████
 Saturday    ███████████████
 Sunday      █████████
 
-🎯 2026 GitHub Goals
+# 🎯 2026 GitHub Goals
 
 ✅ 1000+ Contributions
 
@@ -446,7 +435,7 @@ Sunday      █████████
 
 ✅ Cloud Projects
 
-📌 Profile Summary
+# 📌 Profile Summary
 
 Name        : Altamash Siddiqui
 
@@ -477,7 +466,7 @@ Status      : Learning Everyday 🚀
 <!--              PREMIUM FINALE & FOOTER                   -->
 <!-- ====================================================== -->
 
-🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -487,17 +476,17 @@ Status      : Learning Everyday 🚀
 
 </div>
 
-🤖 AI Developer
+# 🤖 AI Developer
 
 <div align="center">
 
-<img width="450" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 💡 "Code. Learn. Build. Repeat."
 
 </div>
 
-🎯 Current Focus
+# 🎯 Current Focus
 
 🐍 Mastering Python
 
@@ -511,7 +500,7 @@ Status      : Learning Everyday 🚀
 
 📚 Data Structures & Algorithms
 
-📅 2026 Learning Roadmap
+# 📅 2026 Learning Roadmap
 
 ██████████████████████████████
 
@@ -539,11 +528,11 @@ Status      : Learning Everyday 🚀
 
 ⬜ DevOps
 
-📈 Coding Philosophy
+# 📈 Coding Philosophy
 
 "Small commits every day become big achievements tomorrow."
 
-💙 Thanks for visiting my profile
+# 💙 Thanks for visiting my profile
 
 <div align="center">
 
@@ -570,94 +559,3 @@ If you like my work ⭐ don't forget to follow me and star my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00E5FF,100:0072FF"/>
 
 </div>
-<h1 align="center">Hi 👋, I'm Altamash Siddiqui</h1>
-
-<h3 align="center">BCA Student • Python Developer • AI Enthusiast • AWS Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1000&color=00E5FF&lines=Python+Developer;AI+Enthusiast;AWS+Learner;Building+AI+Career+Copilot;Welcome+to+my+GitHub+Profile!" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/altamash-siddiqui/altamash-siddiqui/main/banner.png" width="100%" alt="Altamash Siddiqui Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altamash-siddiqui&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/altamash-siddiqui?label=Followers&style=for-the-badge&color=blue"/>
-</p>
-
-🚀 About Me
-
-🎓 BCA Student
-
-🐍 Python Developer
-
-🤖 AI Enthusiast
-
-☁️ AWS Learner
-
-💻 Building Real World Projects
-
-🌱 Currently Building AI Career Copilot
-
-📚 Daily Python Practice
-
-🎯 Goal: Become an AI Engineer
-
-🚀 Open Source Learner
-
-💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,aws,linux,html,css,js,mysql&theme=dark"/>
-</p>
-
-📂 Featured Projects
-
-🤖 AI Career Copilot
-
-AI-powered career assistant built using Python.
-
-🔗 https://github.com/altamash-siddiqui/AI-Career-Copilot
-
-🐍 Python Practice
-
-Daily Python coding practice.
-
-🔗 https://github.com/altamash-siddiqui/Python-Practice
-
-📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=altamash-siddiqui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamash-siddiqui&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=altamash-siddiqui&theme=tokyonight&hide_border=true"/>
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=altamash-siddiqui&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-
-🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/altamash-siddiqui-a228a7260">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/altamash-siddiqui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
