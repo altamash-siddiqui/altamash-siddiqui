@@ -36,8 +36,10 @@
 
 <h2>💻 System Information</h2>
 
+<h2>💻 System Information</h2>
+
 <p align="center">
-<img src="assets/terminal.svg" width="100%">
+  <img src="./terminal.svg" width="100%" alt="Animated Terminal">
 </p>
 
 ## ⚡ Quick Facts
