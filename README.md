@@ -34,20 +34,11 @@
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                SYSTEM INFORMATION                    ║
-╠══════════════════════════════════════════════════════╣
-║ 👤 USER      : Altamash Siddiqui                    ║
-║ 🎓 EDUCATION : Bachelor of Computer Applications    ║
-║ 🐍 ROLE      : Python Developer                     ║
-║ 🤖 FOCUS     : Artificial Intelligence              ║
-║ ☁️ LEARNING  : Python • AI • AWS                    ║
-║ 🚀 PROJECT   : AI Career Copilot                    ║
-║ 🎯 GOAL      : Become an AI Engineer                ║
-║ 💙 STATUS    : Open Source Learner                  ║
-╚══════════════════════════════════════════════════════╝
-```
+<h2>💻 System Information</h2>
+
+<p align="center">
+<img src="assets/terminal.svg" width="100%">
+</p>
 
 ## ⚡ Quick Facts
 
