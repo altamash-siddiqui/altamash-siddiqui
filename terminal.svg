@@ -24,16 +24,16 @@
       fill="#21262d"/>
 
 <!-- Buttons -->
-<circle cx="45" cy="41" r="6" fill="#ff5f56"/>
-<circle cx="65" cy="41" r="6" fill="#ffbd2e"/>
-<circle cx="85" cy="41" r="6" fill="#27c93f"/>
+<circle cx="45" cy="41" r="6" fill="#ff5f56" stroke="#ffffff22"/>
+<circle cx="65" cy="41" r="6" fill="#ffbd2e" stroke="#ffffff22"/>
+<circle cx="85" cy="41" r="6" fill="#27c93f" stroke="#ffffff22"/>
 
 <text x="550"
       y="46"
       fill="#8b949e"
       font-family="monospace"
       font-size="16">
-terminal.svg
+Altamash Terminal v2.0
 </text>
 
 <style>
@@ -162,7 +162,7 @@ stroke="#30363d"/>
 <g id="info-panel">
 
 <rect
-x="785"
+x="800"
 y="110"
 width="365"
 height="630"
@@ -171,28 +171,28 @@ fill="#0d1117"
 stroke="#30363d"/>
 
 <text
-x="810"
+x="825"
 y="145"
 class="title">
 SYSTEM INFO
 </text>
 
 <text
-x="810"
+x="825"
 y="185"
 class="info">
 Name : Altamash Siddiqui
 </text>
 
 <text
-x="810"
+x="825"
 y="220"
 class="info">
 Role : AI Developer
 </text>
 
 <text
-x="810"
+x="825"
 y="270"
 class="info">
 
@@ -364,7 +364,7 @@ fill="freeze"/>
 
 <rect
 x="905"
-y="514"
+y="564"
 width="8"
 height="18"
 fill="#3fb950"
@@ -392,7 +392,7 @@ fill="freeze"/>
 
 <rect
 x="990"
-y="584"
+y="634"
 width="8"
 height="18"
 fill="#3fb950"
@@ -421,11 +421,59 @@ Status : ONLINE ●
 
 <text
 x="810"
-y="530"
+y="500"
+class="gray"
+visibility="hidden">
+
+[✓] Initializing modules...
+
+<set
+attributeName="visibility"
+to="visible"
+begin="0.5s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="810"
+y="520"
+class="gray"
+visibility="hidden">
+
+[✓] Loading profile...
+
+<set
+attributeName="visibility"
+to="visible"
+begin="1.2s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="810"
+y="540"
+class="green"
+visibility="hidden">
+
+[✓] System Ready
+
+<set
+attributeName="visibility"
+to="visible"
+begin="1.8s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="810"
+y="580"
 class="info"
 visibility="hidden">
 
-&gt; whoami
+altamash@github:~$ whoami
 
 <set
 attributeName="visibility"
@@ -437,7 +485,7 @@ fill="freeze"/>
 
 <text
 x="810"
-y="560"
+y="610"
 class="gray"
 visibility="hidden">
 
@@ -453,11 +501,11 @@ fill="freeze"/>
 
 <text
 x="810"
-y="600"
+y="650"
 class="info"
 visibility="hidden">
 
-&gt; cat skills.txt
+altamash@github:~$ skills.txt
 
 <set
 attributeName="visibility"
@@ -469,7 +517,7 @@ fill="freeze"/>
 
 <text
 x="810"
-y="630"
+y="680"
 class="green"
 visibility="hidden">
 
@@ -488,9 +536,9 @@ fill="freeze"/>
 <!-- Divider -->
 
 <line
-x1="760"
+x1="770"
 y1="70"
-x2="760"
+x2="770"
 y2="780"
 stroke="#30363d"
 stroke-width="2"/>
@@ -505,5 +553,24 @@ class="title">
 ASCII TERMINAL
 
 </text>
+
+<text
+x="35"
+y="790"
+font-family="monospace"
+font-size="13"
+fill="#8b949e">
+
+Press ENTER to continue...
+
+</text>
+
+<rect
+class="cursor"
+x="215"
+y="778"
+width="7"
+height="13"
+fill="#58a6ff"/>
 
 </svg>
