@@ -36,8 +36,6 @@
 
 <h2>💻 System Information</h2>
 
-<h2>💻 System Information</h2>
-
 <p align="center">
   <img src="./terminal.svg" width="100%" alt="Animated Terminal">
 </p>
