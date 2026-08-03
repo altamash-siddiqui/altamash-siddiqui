@@ -241,6 +241,70 @@ class="blue">
 Status : ONLINE ●
 </text>
 
+<text
+x="810"
+y="530"
+class="info"
+visibility="hidden">
+
+&gt; whoami
+
+<set
+attributeName="visibility"
+to="visible"
+begin="2s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="810"
+y="560"
+class="gray"
+visibility="hidden">
+
+Altamash Siddiqui
+
+<set
+attributeName="visibility"
+to="visible"
+begin="3s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="810"
+y="600"
+class="info"
+visibility="hidden">
+
+&gt; cat skills.txt
+
+<set
+attributeName="visibility"
+to="visible"
+begin="4s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="810"
+y="630"
+class="green"
+visibility="hidden">
+
+Python • AI • AWS • Git
+
+<set
+attributeName="visibility"
+to="visible"
+begin="5s"
+fill="freeze"/>
+
+</text>
+
 </g>
 
 <!-- Divider -->
